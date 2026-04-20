@@ -1,0 +1,8 @@
+Algoritmo VelocidadMedia
+	Escribir "Ingrese la distancia recorrida (metros):"
+	Leer distancia
+	Escribir "Ingrese el tiempo empleado (segundos):"
+	Leer tiempo
+	v_media <- distancia / tiempo
+	Escribir "La velocidad media es: ", v_media, " m/s"
+FinAlgoritmo
