@@ -1,0 +1,9 @@
+Algoritmo MetrosACmYMm
+	Escribir "Ingrese la medida en metros:"
+	Leer metros
+	centimetros <- metros * 100
+	milimetros <- metros * 1000
+	Escribir metros, " metros equivalen a:"
+	Escribir centimetros, " centimetros"
+	Escribir milimetros, " milimetros"
+FinAlgoritmo
