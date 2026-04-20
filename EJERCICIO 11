@@ -1,0 +1,6 @@
+Algoritmo EdadEnDias
+	Escribir "Ingrese su edad en años:"
+	Leer años
+	dias_vividos <- años * 365
+	Escribir "Usted ha vivido aproximadamente ", dias_vividos, " dias."
+FinAlgoritmo
