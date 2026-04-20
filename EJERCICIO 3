@@ -1,0 +1,8 @@
+Algoritmo LeyDeOhm
+	Escribir "Ingrese el valor de la Resistencia (R):"
+	Leer R
+	Escribir "Ingrese el valor de la Corriente (I):"
+	Leer I
+	voltaje <- I * R
+	Escribir "El Voltaje calculado es: ", voltaje, " V"
+FinAlgoritmo
