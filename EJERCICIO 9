@@ -1,0 +1,6 @@
+Algoritmo CelsiusAFahrenheit
+	Escribir "Ingrese los grados Celsius:"
+	Leer C
+	F <- (C * 9/5) + 32
+	Escribir C, " grados Celsius son ", F, " grados Fahrenheit"
+FinAlgoritmo
