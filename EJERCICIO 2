@@ -1,0 +1,8 @@
+Algoritmo ConversionMoneda
+	Escribir "Ingrese la cantidad en dolares (USD):"
+	Leer dolares
+	Escribir "Ingrese la tasa de cambio (TRM):"
+	Leer trm
+	pesos <- dolares * trm
+	Escribir "El equivalente en Pesos Colombianos es: $", pesos
+FinAlgoritmo
