@@ -1,0 +1,9 @@
+Algoritmo AhorroConBono
+	Escribir "Ingrese la cantidad de dinero ahorrada:"
+	Leer ahorro
+	bono <- ahorro * 0.15
+	total <- ahorro + bono
+	Escribir "Dinero ahorrado: ", ahorro
+	Escribir "Bono del banco (15%): ", bono
+	Escribir "Total en la cuenta: ", total
+FinAlgoritmo
