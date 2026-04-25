@@ -1,0 +1,9 @@
+Algoritmo ValidarPositivo
+	Escribir "Ingrese un numero para verificar:"
+	Leer num
+	
+	// Estructura SI Simple
+	Si num > 0 Entonces
+		Escribir "El numero es positivo"
+	FinSi
+FinAlgoritmo
