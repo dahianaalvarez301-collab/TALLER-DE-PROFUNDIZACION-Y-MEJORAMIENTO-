@@ -1,0 +1,10 @@
+Algoritmo PuntajeVideojuego
+	Escribir "Ingrese la cantidad de monedas recolectadas:"
+	Leer monedas
+	Escribir "Ingrese la cantidad de niveles superados:"
+	Leer niveles
+	puntos_monedas <- monedas * 100
+	puntos_niveles <- niveles * 500
+	puntaje_total <- puntos_monedas + puntos_niveles
+	Escribir "Puntaje total obtenido: ", puntaje_total, " puntos"
+FinAlgoritmo
