@@ -1,0 +1,9 @@
+Algoritmo ControlAcceso
+	Escribir "Por favor, ingrese su edad:"
+	Leer edad
+	
+	// Estructura SI Simple
+	Si edad >= 18 Entonces
+		Escribir "Bienvenido al laboratorio de robotica"
+	FinSi
+FinAlgoritmo
