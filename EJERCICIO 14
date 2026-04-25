@@ -1,0 +1,8 @@
+Algoritmo ConsumoMotor
+	Escribir "Ingrese la potencia del motor (vatios):"
+	Leer potencia
+	Escribir "Ingrese las horas de uso:"
+	Leer horas
+	consumo_wh <- potencia * horas
+	Escribir "El consumo total es: ", consumo_wh, " Wh"
+FinAlgoritmo
