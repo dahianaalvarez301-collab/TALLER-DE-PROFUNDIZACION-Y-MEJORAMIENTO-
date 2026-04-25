@@ -1,0 +1,6 @@
+Algoritmo RepartoUtilidades
+	Escribir "Ingrese la ganancia total a repartir:"
+	Leer ganancia_total
+	cuota <- ganancia_total / 3
+	Escribir "A cada socio le corresponde: $", cuota
+FinAlgoritmo
