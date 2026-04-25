@@ -1,0 +1,9 @@
+Algoritmo AlertaCaldera
+	Escribir "Ingrese la temperatura actual de la caldera (°C):"
+	Leer temperatura
+	
+	// Estructura SI Simple
+	Si temperatura > 100 Entonces
+		Escribir "ALERTA: Abrir valvula de escape"
+	FinSi
+FinAlgoritmo
