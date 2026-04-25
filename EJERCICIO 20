@@ -1,0 +1,9 @@
+Algoritmo ValidacionInventario
+	Escribir "Ingrese la cantidad de piezas disponibles en bodega:"
+	Leer piezas
+	
+	// Estructura SI Simple
+	Si piezas < 5 Entonces
+		Escribir "Solicitar pedido urgente al proveedor"
+	FinSi
+FinAlgoritmo
