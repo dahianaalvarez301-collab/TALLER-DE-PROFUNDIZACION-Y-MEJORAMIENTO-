@@ -1,0 +1,6 @@
+Algoritmo CircunferenciaCirculo
+	Escribir "Ingrese el radio del circulo:"
+	Leer radio
+	circunferencia <- 2 * PI * radio
+	Escribir "La circunferencia es: ", circunferencia
+FinAlgoritmo
